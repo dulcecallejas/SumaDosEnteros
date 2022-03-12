@@ -1,4 +1,4 @@
-#Definicion de la funcion que suma 2 numeros enteros
+# Definicion de la funcion que suma 2 numeros enteros
 def Suma2Enteros (x,y):
   z = x + y 
   return z
