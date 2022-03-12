@@ -1,9 +1,9 @@
 #Definicion de la funcion que suma 2 numeros enteros
 def Suma2Enteros (x,y):
-  z = x + y
-   
+  z = x + y 
   return z
 
+# Estructura del menú y las entradas al programa
 while True:
   print ("¿Quieres jugar a sumar dos números?")  
   print ("1 Si")
